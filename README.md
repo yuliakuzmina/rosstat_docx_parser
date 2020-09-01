@@ -1,2 +1,3 @@
 # rosstat_docx_parser
-Parsing tables from docx files of Rosstat
+This parser works with tricky tables in docx documents from Russian Federal State Statistics Service.
+
